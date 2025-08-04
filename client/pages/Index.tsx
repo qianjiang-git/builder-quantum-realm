@@ -261,9 +261,9 @@ export default function Index() {
             <div className="relative">
               <div className="bg-white rounded-2xl shadow-xl border border-aura-border overflow-hidden">
                 <div className="aspect-square bg-gradient-to-br from-aura-bg to-white flex items-center justify-center">
-                  <img 
-                    src="https://placehold.co/500x500/F7F7F8/9EA2AD?text=Design+Process+Demo" 
-                    alt="Design Process" 
+                  <img
+                    src="https://cdn.builder.io/api/v1/image/assets%2Fbcda7a8617614ba68292cf738d4affce%2Ff437b4148b704a80bc80142a91e72dc1"
+                    alt="Design Process"
                     className="w-full h-full object-cover"
                   />
                 </div>

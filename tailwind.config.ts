@@ -57,6 +57,15 @@ export default {
           border: "hsl(var(--sidebar-border))",
           ring: "hsl(var(--sidebar-ring))",
         },
+        // Aura brand colors
+        aura: {
+          dark: "#242424",
+          medium: "#454a53",
+          light: "#9ea2ad",
+          bg: "#f7f7f8",
+          border: "#e9eaeb",
+          "border-light": "#ececec",
+        },
       },
       borderRadius: {
         lg: "var(--radius)",
